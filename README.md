@@ -2,8 +2,7 @@
 
 This project focuses on analyzing historical stock data and building predictive models to forecast future prices.
 
-Introduction:
-
+### Ket Points
 - Loaded and previewed the dataset.
 - Examined the dataset's structure and information.
 - Generated various visualizations (histograms, box plots, pair plots) to gain insights into the data distribution.
@@ -12,4 +11,4 @@ Introduction:
 - Trained and evaluated three regression models: Linear Regression, Random Forest Regressor, and Gradient Boosting Regressor.
 - Selected the best performing model based on Mean Squared Error (MSE) and used it to make predictions on new data.
 
-This is o
+#### This is on of my tasks as a Data Science Intern at the virtual internship from [**Asterisc Technocrat**](https://www.linkedin.com/company/asterisc-technocrat/).
